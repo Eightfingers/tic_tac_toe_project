@@ -90,6 +90,6 @@ int main()
 		&& !checkWin(board, 'O')) {
 		cout << "It's a draw!\n";
 	}
-
+	cout << "Game is ended";
 	return 0;
 }
